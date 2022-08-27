@@ -1,1 +1,2 @@
 # Flamingo
+Password Manager wannabe.
