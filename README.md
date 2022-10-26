@@ -9,4 +9,4 @@ Atributos de um gerenciador de senhas:
 -Name
 
 -Banco de dados (CRUD)
->>>>>>> deb0006 (Finalizing the project.)
+(Finalizing the project.)
