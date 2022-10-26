@@ -1,5 +1,4 @@
 # Flamingo
-<<<<<<< HEAD
 Password Manager wannabe.
 =======
 
